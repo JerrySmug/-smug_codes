@@ -1,0 +1,50 @@
+{
+  "brandName": "SMUG CODES",
+  "heroEyebrow": "Professional web experiences built for growth",
+  "heroTitle": "Modern digital solutions for businesses that want to stand out.",
+  "heroDescription": "Hi, I’m the developer behind SMUG CODES. I deliver clean, scalable, SEO-friendly web applications with a polished UX and fast performance.",
+  "heroPrimaryLabel": "Work with me",
+  "heroSecondaryLabel": "View portfolio",
+  "aboutEyebrow": "About SMUG CODES",
+  "aboutTitle": "Turning ideas into polished, production-ready websites.",
+  "aboutDescription": "I build websites and web applications that reflect your brand voice, streamline user journeys, and convert visitors into customers. My work blends front-end design, back-end architecture, and SEO optimization so every project is ready to launch.",
+  "stats": [
+    {"value": "8+", "label": "Years of experience"},
+    {"value": "50+", "label": "Web projects delivered"},
+    {"value": "100%", "label": "SEO-ready structure"}
+  ],
+  "aboutCards": [
+    {"title": "Brand-aligned design", "description": "Interfaces that match your visual identity with professional typography, color, and layout."},
+    {"title": "Performance-first build", "description": "Lightweight code, fast delivery, and mobile-first responsiveness for every screen."},
+    {"title": "SEO & accessibility", "description": "Optimized metadata, semantic structure, and user-friendly interactions to help you get found."}
+  ],
+  "servicesTitle": "Services for startups, agencies, and growing businesses.",
+  "services": [
+    {"title": "Web Applications", "description": "From admin dashboards to e-commerce platforms, I build secure full stack systems with PHP, JavaScript, and modern tooling."},
+    {"title": "Responsive Web Design", "description": "Beautiful, intuitive layouts that adapt to mobile, tablet, and desktop users."},
+    {"title": "SEO Optimization", "description": "Clean HTML, metadata, fast loading speeds, and accessible structure for better search visibility."}
+  ],
+  "projectsTitle": "Selected projects that showcase quality and polish.",
+  "projects": [
+    {"title": "School Management Dashboard", "description": "Robust admin tools, student records, and results management built with PHP and MySQL."},
+    {"title": "Investment Platform", "description": "Secure user flows, transaction tracking, and responsive layout for a financial web service."},
+    {"title": "E-commerce Store", "description": "Modern product catalog, checkout experience, and branding that supports online sales."}
+  ],
+  "testimonialEyebrow": "Client feedback",
+  "testimonialTitle": "Designed to feel reliable, professional, and easy to use.",
+  "testimonialDescription": "Every website I deliver is built to improve conversion, support brand trust, and delight visitors on every device.",
+  "testimonialQuote": "SMUG CODES transformed our concept into a fast, user-friendly website. The process was smooth and the final product exceeded expectations.",
+  "testimonialAuthor": "— Client review",
+  "contactTitle": "Ready to build your next digital experience?",
+  "contactDescription": "I’m available for freelance projects, long-term web development, and website refreshes. Let’s create something professional and easy to maintain.",
+  "contactEmail": "hello@smugcodes.dev",
+  "contactPhone": "+1 (234) 567-890",
+  "contactLocation": "Remote / Available worldwide",
+  "feedbackTitle": "Your thoughts help me refine every release.",
+  "feedbackDescription": "Review the portfolio, then send a short note with what you liked and what you’d like to improve. Feedback helps me keep the site polished and user-friendly.",
+  "footerText": "SMUG CODES © 2026 | Full Stack Web Developer portfolio. Built responsive, built professional.",
+  "adminCredentials": {
+    "username": "admin",
+    "password": "smugcodes123"
+  }
+}
