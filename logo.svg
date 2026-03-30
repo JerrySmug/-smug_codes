@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title>SMUG CODES logo</title>
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="30" fill="#111827"/>
+  <path d="M38 36h14c7.18 0 13 5.82 13 13s-5.82 13-13 13H38V36Zm0 28h14c4.97 0 9-4.03 9-9s-4.03-9-9-9H38v18Zm0 0v28h44" fill="none" stroke="url(#brandGradient)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 36v52" stroke="url(#brandGradient)" stroke-width="10" stroke-linecap="round"/>
+</svg>
